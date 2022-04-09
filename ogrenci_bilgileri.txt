@@ -1,0 +1,17 @@
+Ali		Tekin		101
+Ayse		Koc		102 
+Mehmet		Dalin		103 
+Asli		Pekin		104 
+Gizem		Boz		105 
+Berk		Atatepe		106 
+Unsal		Tut		107 
+Doruk		Pala		108 
+Melek		Yigiter		109 
+Tayfun		Coskun		110 
+Cigdem		Ciftci		111
+Veli		Terazi		112
+Tosun		Kacar		113
+Zehra		Kara 		114
+
+
+
